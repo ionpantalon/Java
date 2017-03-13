@@ -1,0 +1,11 @@
+Functions:
+ Create a new order: the user of the program will be given a choice of actions to create the order. One of these actions would be, for example, Add Pizza, where all Pizzas are listed with their corresponding price.
+ Change order status: choosing this option allows the user to change the status of the order so as to keep the clients informed. An order might be in three different states, namely WAITING, COOKING and DELIVERY.
+ List pending orders: this allows the call attendant to see which order are pending and find a specific order more easily.
+ Administrative menu: this option lets the user add/remove/change the entities that are registered in the program (database). Also, it allows the user to print the payroll.
+
+INSTALLATION:
+- git clone https://gitlab.com/ion.p/java/PizzeriaShop
+- open your java editor and add the project folder
+
+For any further support/advice you can email me: nanu_rtc@yahoo.com

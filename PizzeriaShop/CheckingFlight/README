@@ -1,0 +1,16 @@
+Checking in for a flight includes being given a boarding card printed with a seat number for the aircraft cabin. However, many low-cost airline operators do not allocate seats at check-in, leaving passengers to pick one when they board instead.
+An attempt is made to avoid a free-for-all from developing as a result, as follows: When booking a budget flight, it is often possible at extra cost to have a 'priority' stamped boarding card; this allows passengers to leave the departure gate at the head of the queue, giving them a wider availability of seats on the aircraft. They are, however, preceded by those needing assistance to travel from the gate to the aircraft cabin, because of reduced mobility or accidental injury. When these two groups have left, priority is often given to those travelling with infants or small children. After this, the remaining passengers may leave the departure gate and scramble for a seat that is not yet occupied!
+
+The program has the following features:
+1.	Create an empty queue
+2.	Ask the user to insert the number of passenger that will board the plane
+3.	Add the number of passenger to the queue using the priority rankings
+4.	Ask the user to choose between displaying individual passenger and their priority or the whole list of passengers.
+5.	Display the passengers
+
+
+INSTALLATION:
+- git clone https://gitlab.com/ion.p/java/CheckingFlight
+- open your java editor and add the project folder
+
+For any further support/advice you can email me: nanu_rtc@yahoo.com
