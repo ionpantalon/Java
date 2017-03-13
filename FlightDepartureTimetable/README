@@ -1,0 +1,13 @@
+This is a program that displays the flights time, destination and the status of each flight. 
+The program is be able to:
+•	Store the details about the flight in a table
+•	Order the flights by the time
+•	A flight can be deleted even when departs, postponed or cancelled
+•	Search for a flight by using the time or destination
+
+
+INSTALLATION:
+- git clone https://gitlab.com/ion.p/java/FlightDepartureTimetable
+- open your java editor and add the project folder
+
+For any further support/advice you can email me: nanu_rtc@yahoo.com
