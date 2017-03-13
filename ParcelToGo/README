@@ -1,0 +1,12 @@
+This software is able to do the following:
+1) Add a new delivery slip, including entering the necessary delivery information (item, source, and destination) and place it into the list at any position.
+2) Move a delivery slip to a new position in the list.
+3) Delete a delivery slip.
+4) View the list of slips.
+
+
+INSTALLATION:
+- git clone https://gitlab.com/ion.p/java/ParcelToGo
+- open your java editor and add the project folder
+
+For any further support/advice you can email me: nanu_rtc@yahoo.com
